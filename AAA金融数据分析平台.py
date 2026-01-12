@@ -1,4 +1,3 @@
-# streamlit 03谢卓君.py
 from datetime import datetime, date, timedelta
 import pandas as pd
 import streamlit as st
