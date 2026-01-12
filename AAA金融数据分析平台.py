@@ -2908,7 +2908,7 @@ def st_fig():
                                         import requests
                                         
                                         # 硅基流动平台的API配置
-                                        api_key = "sk-hmzcxvovibmlguvhozdrrnbzpxmgyoxxgkwvsbydmxrfxdmf"  # API密钥
+                                        api_key = "您的API密钥"  # API密钥
                                         
                                         # 硅基流动的DeepSeek API端点
                                         api_url = "https://api.siliconflow.cn/v1/chat/completions"
